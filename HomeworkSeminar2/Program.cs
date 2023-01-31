@@ -25,22 +25,36 @@
 //-------------------------------------------------------------------------------------------------------------------------------
 // Решение: (а мне интересно эту задачу решить уже с помощью метода)
 
-int Digit3D(int number) // именем Сената и народа Рима, объявляю МЕТОД!
-    {
-    int result = -1;    //фишка по обработке условия если число менее 3х разрядов
-    if (number >= 100)  
-        {
-            while (number > 999)
-                {
-                    number = number / 10;
-                }
-                result = number % 10;
-        }
-            return result;
-    }
-Console.Write("Введите любое целое число: "); int numAny = Convert.ToInt32(Console.ReadLine());
+// int Digit3D(int number) // именем Сената и народа Рима, объявляю МЕТОД!
+//     {
+//     int result = -1;    //фишка по обработке условия если число менее 3х разрядов
+//     if (number >= 100)  
+//         {
+//             while (number > 999)
+//                 {
+//                     number = number / 10;
+//                 }
+//                 result = number % 10;
+//         }
+//             return result;
+//     }
+// Console.Write("Введите любое целое число: "); int numAny = Convert.ToInt32(Console.ReadLine());
 
-if (Digit3D(numAny)==-1){System.Console.WriteLine("Третьей цифры нет!");}
-else {System.Console.WriteLine($"Третья цифра: {Digit3D(numAny)}");}
+// if (Digit3D(numAny)==-1){System.Console.WriteLine("Третьей цифры нет!");}
+// else {System.Console.WriteLine($"Третья цифра: {Digit3D(numAny)}");}
 
 //===============================================================================================================================
+// Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+// 6 -> да
+// 7 -> да
+// 1 -> нет
+//-------------------------------------------------------------------------------------------------------------------------------
+// Решение: 
+Console.Write("Введите номер дня недели: "); int numDayWeekly = Convert.ToInt32(Console.ReadLine());
+if (numDayWeekly==6 || numDayWeekly==7){System.Console.WriteLine($"Да, {numDayWeekly} - это номер выходного дня");}
+else
+    {
+        if (numDayWeekly==1 || numDayWeekly==2 || numDayWeekly==3 || numDayWeekly==4 || numDayWeekly==5)
+            {System.Console.WriteLine($"Нет, {numDayWeekly} - это номер рабочего дня недели, но не выходного");}
+            else {System.Console.WriteLine($"Нет, {numDayWeekly} - это вообще `левая` цифра, не номер дня недели");}
+    }
