@@ -44,14 +44,15 @@
 
 void BinaryRoundArray()     //метод заполнения массива рандомным бинарным кодом
 {
-    Random biRand = new Random();        //объявление рандомной переменной
-    int [] binaryArray = new int [8];   //объявление массива на 8 элементов
+    var biRand = new Random();        //объявление рандомной переменной
+    var binaryArray = new int [8];   //объявление массива на 8 элементов
     
-    for (int s=0; s<=7; s++)            //заполнение массива случайными бинарными значениями
+    for (int s=0; s<binaryArray.Length; s++)            //заполнение массива случайными бинарными значениями
     {
         binaryArray[s]=biRand.Next(0,2); //внимани 2-не входит в границу правого диапазона (n-1)
-        System.Console.Write($"{binaryArray[s]};");
+        // System.Console.Write($"{binaryArray[s]};");
     }
+    System.Console.Write($"Массив:[{string.Join("|",binaryArray)}]"); //крутой метод вывода массива. параметр1-сепаратор, пар2-сам массив
 }
 
 BinaryRoundArray();
