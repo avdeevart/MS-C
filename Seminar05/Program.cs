@@ -1,4 +1,4 @@
-﻿//by Survivor of the SAO
+//by Survivor of the SAO
 
 //Задать массив из N элементов, заполненный случайными числами [-9,9]. Найти сумму отрицатильных и положительных элементов
 
@@ -59,4 +59,20 @@ void DisplayAll()   //демонстрация всех условий и зна
     System.Console.WriteLine($"Сумма положительных значений: {PositiveSum(thisArray)}; Сумма отрицательных значений: {NegativeSum(thisArray)}");
 }
 //-----------------------------------------------------------------------------------------------------------------------------------
+// тоже самое, но через OUT (можно также через массив)
+void SumNegativeAndPositive(int arrayALT, out int sumNegativeALT, out int sumPositiveALT)
+{
+    sumNegativeALT=0;
+    sumPositiveALT=0;
+    for(int k=0; k<arrayALT.Lenght;k++)
+    {
+        switch(arrayALT[k])
+        {
+            case <0: sumNegativeALT+=arrayALT[k];break;
+            case >=0: sumPositiveALT+=arrayALT[k];break;
+        }
+    }
+}
+
+
 DisplayAll();

@@ -24,7 +24,7 @@ int [] GeneratingRandomValuesFillingArray(int sizeArray,int lowRND,int hightRND)
 
     for (int i=0; i<varArray.Length; i++)            //заполнение массива случайными значениями
         {
-            varArray[i]=randomValue.Next(lowRND,hightRND); //внимани 2-не входит в границу правого диапазона (n-1)
+            varArray[i]=randomValue.Next(lowRND,hightRND+1); //внимани 2-не входит в границу правого диапазона (n-1)
         }
     return varArray;
 }
