@@ -52,19 +52,12 @@ int NegativeSum(int [] arrayY)   //возращает сумму отрицат�
     return negativeSum;
 }
 //-----------------------------------------------------------------------------------------------------------------------------------
-void DisplayAll()   //демонстрация всех условий и значений
-{
-    int [] thisArray=GeneratingRandomValuesFillingArray(GetDigitFromString("Введите длину массива:"),GetDigitFromString("Введите нижний уровень:"),GetDigitFromString("Введите верхний уровень:"));
-    DisplayArray(thisArray);
-    System.Console.WriteLine($"Сумма положительных значений: {PositiveSum(thisArray)}; Сумма отрицательных значений: {NegativeSum(thisArray)}");
-}
-//-----------------------------------------------------------------------------------------------------------------------------------
-// тоже самое, но через OUT (можно также через массив)
-void SumNegativeAndPositive(int arrayALT, out int sumNegativeALT, out int sumPositiveALT)
+void SumNegativeAndPositive(int [] arrayALT, out int sumNegativeALT, out int sumPositiveALT)// тоже самое, но через OUT 
+// (можно также через массив). Причем обратить внимание, как запускается этот метод (см.ниже)
 {
     sumNegativeALT=0;
     sumPositiveALT=0;
-    for(int k=0; k<arrayALT.Lenght;k++)
+    for(int k=0; k<arrayALT.Length;k++)
     {
         switch(arrayALT[k])
         {
@@ -100,17 +93,44 @@ int CountNumbersFromDiapason(int [] DownArray, int leftFind, int rightFind)  //�
 
     for(int q=0; q<DownArray.Length;q++)
     {
-        if(DownArray[q]>=leftFind || DownArray[q]<=rightFind){countNumbers++;}
+        if(DownArray[q]>=leftFind && DownArray[q]<=rightFind){countNumbers++;}
     }
     return countNumbers;
 }
 //-----------------------------------------------------------------------------------------------------------------------------------
+int [] multiplicationPairArray(int [] newArray)   //возращение массива из другого массива с вычеслением произведения: 1*последний; 2*предпоследний ....
+{
+    int [] PairSum= new int [newArray.Length/2];
+    for(int w=0; w<newArray.Length/2;w++)
+    {
+        PairSum[w]=newArray[w]*newArray[(newArray.Length-1)-w];
+    }
+    return PairSum;
 
-
+}
 //-----------------------------------------------------------------------------------------------------------------------------------
 void DisplayAll()   //демонстрация всех условий и значений
 {
     int [] thisArray=GeneratingRandomValuesFillingArray(GetDigitFromString("Введите длину массива:"),GetDigitFromString("Введите нижний уровень:"),GetDigitFromString("Введите верхний уровень:"));
+ 
+    DisplayArray(thisArray);
+ 
+    System.Console.WriteLine($"Сумма положительных значений: {PositiveSum(thisArray)}; Сумма отрицательных значений: {NegativeSum(thisArray)}");
+ 
+    SumNegativeAndPositive(thisArray,out int sumNegativeALT, out int sumPositiveALT);   //Обратить внимание, как запускается метод!!!
+    //в данном случае имена out-переменнных внутри метода и объявленные переменные за его пределами, должны быть одними и теми-же !!!
+   
+    System.Console.WriteLine($"Сумма положительных значений(через out): {sumPositiveALT}; Сумма отрицательных значений(через out): {sumNegativeALT}");
+  
+    DisplayArray(InvertVolumesArray(thisArray));
+   
+    System.Console.WriteLine(SeachNumberOfArray(GetDigitFromString("Введите число для поиска: "),thisArray));
 
+    System.Console.WriteLine($"Количество элементов в диапазоне: {CountNumbersFromDiapason(thisArray,GetDigitFromString("Введите левую границу поиска: "),GetDigitFromString("Введите правую границу поиска: "))}");
+
+    DisplayArray(multiplicationPairArray(thisArray));
+
+}
+//-----------------------------------------------------------------------------------------------------------------------------------
 
 DisplayAll();
