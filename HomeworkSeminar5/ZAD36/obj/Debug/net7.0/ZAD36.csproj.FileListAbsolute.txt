@@ -1,0 +1,15 @@
+D:\Examples\MS-C\HomeworkSeminar5\ZAD36\bin\Debug\net7.0\ZAD36.exe
+D:\Examples\MS-C\HomeworkSeminar5\ZAD36\bin\Debug\net7.0\ZAD36.deps.json
+D:\Examples\MS-C\HomeworkSeminar5\ZAD36\bin\Debug\net7.0\ZAD36.runtimeconfig.json
+D:\Examples\MS-C\HomeworkSeminar5\ZAD36\bin\Debug\net7.0\ZAD36.dll
+D:\Examples\MS-C\HomeworkSeminar5\ZAD36\bin\Debug\net7.0\ZAD36.pdb
+D:\Examples\MS-C\HomeworkSeminar5\ZAD36\obj\Debug\net7.0\ZAD36.csproj.AssemblyReference.cache
+D:\Examples\MS-C\HomeworkSeminar5\ZAD36\obj\Debug\net7.0\ZAD36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\MS-C\HomeworkSeminar5\ZAD36\obj\Debug\net7.0\ZAD36.AssemblyInfoInputs.cache
+D:\Examples\MS-C\HomeworkSeminar5\ZAD36\obj\Debug\net7.0\ZAD36.AssemblyInfo.cs
+D:\Examples\MS-C\HomeworkSeminar5\ZAD36\obj\Debug\net7.0\ZAD36.csproj.CoreCompileInputs.cache
+D:\Examples\MS-C\HomeworkSeminar5\ZAD36\obj\Debug\net7.0\ZAD36.dll
+D:\Examples\MS-C\HomeworkSeminar5\ZAD36\obj\Debug\net7.0\refint\ZAD36.dll
+D:\Examples\MS-C\HomeworkSeminar5\ZAD36\obj\Debug\net7.0\ZAD36.pdb
+D:\Examples\MS-C\HomeworkSeminar5\ZAD36\obj\Debug\net7.0\ZAD36.genruntimeconfig.cache
+D:\Examples\MS-C\HomeworkSeminar5\ZAD36\obj\Debug\net7.0\ref\ZAD36.dll
