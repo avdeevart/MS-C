@@ -1,0 +1,15 @@
+D:\Examples\MS-C\Seminar06\bin\Debug\net7.0\Seminar06.exe
+D:\Examples\MS-C\Seminar06\bin\Debug\net7.0\Seminar06.deps.json
+D:\Examples\MS-C\Seminar06\bin\Debug\net7.0\Seminar06.runtimeconfig.json
+D:\Examples\MS-C\Seminar06\bin\Debug\net7.0\Seminar06.dll
+D:\Examples\MS-C\Seminar06\bin\Debug\net7.0\Seminar06.pdb
+D:\Examples\MS-C\Seminar06\obj\Debug\net7.0\Seminar06.csproj.AssemblyReference.cache
+D:\Examples\MS-C\Seminar06\obj\Debug\net7.0\Seminar06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\MS-C\Seminar06\obj\Debug\net7.0\Seminar06.AssemblyInfoInputs.cache
+D:\Examples\MS-C\Seminar06\obj\Debug\net7.0\Seminar06.AssemblyInfo.cs
+D:\Examples\MS-C\Seminar06\obj\Debug\net7.0\Seminar06.csproj.CoreCompileInputs.cache
+D:\Examples\MS-C\Seminar06\obj\Debug\net7.0\Seminar06.dll
+D:\Examples\MS-C\Seminar06\obj\Debug\net7.0\refint\Seminar06.dll
+D:\Examples\MS-C\Seminar06\obj\Debug\net7.0\Seminar06.pdb
+D:\Examples\MS-C\Seminar06\obj\Debug\net7.0\Seminar06.genruntimeconfig.cache
+D:\Examples\MS-C\Seminar06\obj\Debug\net7.0\ref\Seminar06.dll
