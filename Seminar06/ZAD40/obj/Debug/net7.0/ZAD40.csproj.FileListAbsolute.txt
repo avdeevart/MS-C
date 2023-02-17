@@ -1,0 +1,15 @@
+D:\Examples\MS-C\Seminar06\ZAD40\bin\Debug\net7.0\ZAD40.exe
+D:\Examples\MS-C\Seminar06\ZAD40\bin\Debug\net7.0\ZAD40.deps.json
+D:\Examples\MS-C\Seminar06\ZAD40\bin\Debug\net7.0\ZAD40.runtimeconfig.json
+D:\Examples\MS-C\Seminar06\ZAD40\bin\Debug\net7.0\ZAD40.dll
+D:\Examples\MS-C\Seminar06\ZAD40\bin\Debug\net7.0\ZAD40.pdb
+D:\Examples\MS-C\Seminar06\ZAD40\obj\Debug\net7.0\ZAD40.csproj.AssemblyReference.cache
+D:\Examples\MS-C\Seminar06\ZAD40\obj\Debug\net7.0\ZAD40.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\MS-C\Seminar06\ZAD40\obj\Debug\net7.0\ZAD40.AssemblyInfoInputs.cache
+D:\Examples\MS-C\Seminar06\ZAD40\obj\Debug\net7.0\ZAD40.AssemblyInfo.cs
+D:\Examples\MS-C\Seminar06\ZAD40\obj\Debug\net7.0\ZAD40.csproj.CoreCompileInputs.cache
+D:\Examples\MS-C\Seminar06\ZAD40\obj\Debug\net7.0\ZAD40.dll
+D:\Examples\MS-C\Seminar06\ZAD40\obj\Debug\net7.0\refint\ZAD40.dll
+D:\Examples\MS-C\Seminar06\ZAD40\obj\Debug\net7.0\ZAD40.pdb
+D:\Examples\MS-C\Seminar06\ZAD40\obj\Debug\net7.0\ZAD40.genruntimeconfig.cache
+D:\Examples\MS-C\Seminar06\ZAD40\obj\Debug\net7.0\ref\ZAD40.dll
