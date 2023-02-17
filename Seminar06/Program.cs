@@ -44,6 +44,9 @@ void DisplayAll()   //демонстрация всех условий и зна
     DisplayArray(workArray);
     Console.WriteLine("Перевернутый массив: ");
     DisplayArray(InvertedArray(workArray));
+    Console.WriteLine("А это с использованием метода Array.Reverse ");
+    Array.Reverse(workArray); //Встроенный метод C# для переворачивания массива, причем данные сохраняет в томже массиве
+    DisplayArray(workArray);
 }
 //-----------------------------------------------------------------------------------------------------------------------------------
 DisplayAll();   //по сути - запуск проги
