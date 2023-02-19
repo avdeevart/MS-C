@@ -1,0 +1,15 @@
+D:\Examples\MS-C\HomeworkSeminar6\bin\Debug\net7.0\HomeworkSeminar6.exe
+D:\Examples\MS-C\HomeworkSeminar6\bin\Debug\net7.0\HomeworkSeminar6.deps.json
+D:\Examples\MS-C\HomeworkSeminar6\bin\Debug\net7.0\HomeworkSeminar6.runtimeconfig.json
+D:\Examples\MS-C\HomeworkSeminar6\bin\Debug\net7.0\HomeworkSeminar6.dll
+D:\Examples\MS-C\HomeworkSeminar6\bin\Debug\net7.0\HomeworkSeminar6.pdb
+D:\Examples\MS-C\HomeworkSeminar6\obj\Debug\net7.0\HomeworkSeminar6.csproj.AssemblyReference.cache
+D:\Examples\MS-C\HomeworkSeminar6\obj\Debug\net7.0\HomeworkSeminar6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\MS-C\HomeworkSeminar6\obj\Debug\net7.0\HomeworkSeminar6.AssemblyInfoInputs.cache
+D:\Examples\MS-C\HomeworkSeminar6\obj\Debug\net7.0\HomeworkSeminar6.AssemblyInfo.cs
+D:\Examples\MS-C\HomeworkSeminar6\obj\Debug\net7.0\HomeworkSeminar6.csproj.CoreCompileInputs.cache
+D:\Examples\MS-C\HomeworkSeminar6\obj\Debug\net7.0\HomeworkSeminar6.dll
+D:\Examples\MS-C\HomeworkSeminar6\obj\Debug\net7.0\refint\HomeworkSeminar6.dll
+D:\Examples\MS-C\HomeworkSeminar6\obj\Debug\net7.0\HomeworkSeminar6.pdb
+D:\Examples\MS-C\HomeworkSeminar6\obj\Debug\net7.0\HomeworkSeminar6.genruntimeconfig.cache
+D:\Examples\MS-C\HomeworkSeminar6\obj\Debug\net7.0\ref\HomeworkSeminar6.dll
