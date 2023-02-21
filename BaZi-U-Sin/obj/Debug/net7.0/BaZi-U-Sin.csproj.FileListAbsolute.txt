@@ -1,0 +1,15 @@
+D:\Examples\MS-C\BaZi-U-Sin\bin\Debug\net7.0\BaZi-U-Sin.exe
+D:\Examples\MS-C\BaZi-U-Sin\bin\Debug\net7.0\BaZi-U-Sin.deps.json
+D:\Examples\MS-C\BaZi-U-Sin\bin\Debug\net7.0\BaZi-U-Sin.runtimeconfig.json
+D:\Examples\MS-C\BaZi-U-Sin\bin\Debug\net7.0\BaZi-U-Sin.dll
+D:\Examples\MS-C\BaZi-U-Sin\bin\Debug\net7.0\BaZi-U-Sin.pdb
+D:\Examples\MS-C\BaZi-U-Sin\obj\Debug\net7.0\BaZi-U-Sin.csproj.AssemblyReference.cache
+D:\Examples\MS-C\BaZi-U-Sin\obj\Debug\net7.0\BaZi-U-Sin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\MS-C\BaZi-U-Sin\obj\Debug\net7.0\BaZi-U-Sin.AssemblyInfoInputs.cache
+D:\Examples\MS-C\BaZi-U-Sin\obj\Debug\net7.0\BaZi-U-Sin.AssemblyInfo.cs
+D:\Examples\MS-C\BaZi-U-Sin\obj\Debug\net7.0\BaZi-U-Sin.csproj.CoreCompileInputs.cache
+D:\Examples\MS-C\BaZi-U-Sin\obj\Debug\net7.0\BaZi-U-Sin.dll
+D:\Examples\MS-C\BaZi-U-Sin\obj\Debug\net7.0\refint\BaZi-U-Sin.dll
+D:\Examples\MS-C\BaZi-U-Sin\obj\Debug\net7.0\BaZi-U-Sin.pdb
+D:\Examples\MS-C\BaZi-U-Sin\obj\Debug\net7.0\BaZi-U-Sin.genruntimeconfig.cache
+D:\Examples\MS-C\BaZi-U-Sin\obj\Debug\net7.0\ref\BaZi-U-Sin.dll

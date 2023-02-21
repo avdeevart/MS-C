@@ -1,0 +1,15 @@
+D:\Examples\MS-C\Seminar06\ZAD_arraycopyfull\bin\Debug\net7.0\ZAD_arraycopyfull.exe
+D:\Examples\MS-C\Seminar06\ZAD_arraycopyfull\bin\Debug\net7.0\ZAD_arraycopyfull.deps.json
+D:\Examples\MS-C\Seminar06\ZAD_arraycopyfull\bin\Debug\net7.0\ZAD_arraycopyfull.runtimeconfig.json
+D:\Examples\MS-C\Seminar06\ZAD_arraycopyfull\bin\Debug\net7.0\ZAD_arraycopyfull.dll
+D:\Examples\MS-C\Seminar06\ZAD_arraycopyfull\bin\Debug\net7.0\ZAD_arraycopyfull.pdb
+D:\Examples\MS-C\Seminar06\ZAD_arraycopyfull\obj\Debug\net7.0\ZAD_arraycopyfull.csproj.AssemblyReference.cache
+D:\Examples\MS-C\Seminar06\ZAD_arraycopyfull\obj\Debug\net7.0\ZAD_arraycopyfull.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\MS-C\Seminar06\ZAD_arraycopyfull\obj\Debug\net7.0\ZAD_arraycopyfull.AssemblyInfoInputs.cache
+D:\Examples\MS-C\Seminar06\ZAD_arraycopyfull\obj\Debug\net7.0\ZAD_arraycopyfull.AssemblyInfo.cs
+D:\Examples\MS-C\Seminar06\ZAD_arraycopyfull\obj\Debug\net7.0\ZAD_arraycopyfull.csproj.CoreCompileInputs.cache
+D:\Examples\MS-C\Seminar06\ZAD_arraycopyfull\obj\Debug\net7.0\ZAD_arraycopyfull.dll
+D:\Examples\MS-C\Seminar06\ZAD_arraycopyfull\obj\Debug\net7.0\refint\ZAD_arraycopyfull.dll
+D:\Examples\MS-C\Seminar06\ZAD_arraycopyfull\obj\Debug\net7.0\ZAD_arraycopyfull.pdb
+D:\Examples\MS-C\Seminar06\ZAD_arraycopyfull\obj\Debug\net7.0\ZAD_arraycopyfull.genruntimeconfig.cache
+D:\Examples\MS-C\Seminar06\ZAD_arraycopyfull\obj\Debug\net7.0\ref\ZAD_arraycopyfull.dll

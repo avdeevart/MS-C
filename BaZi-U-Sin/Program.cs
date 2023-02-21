@@ -11,10 +11,11 @@ return Convert.ToInt32(Console.ReadLine());
 //------------------------------------------------------------------------------------------------------------------------------------
 string name10HeavenPillars(int index10HP)    //метод вывода названия 10 Небесных Столпов по введеному номеру
 {
+    metka:
     switch (index10HP)
     {
-        case <1: return "!ОШИБКА!: меньше-1";break;
-        case >10: return "!ОШИБКА!: больше-10";break;
+        case <1: index10HP=index10HP+10;goto metka;break;
+        case >10: index10HP=index10HP-10;goto metka;break;
 
         case 1: return "ЯД";break;
         case 2: return "ид";break;
@@ -33,10 +34,11 @@ string name10HeavenPillars(int index10HP)    //метод вывода назв�
 //------------------------------------------------------------------------------------------------------------------------------------
 string name12EarthBranches(int index12EB)    //метод вывода названия 12 Земных Ветвей по введеному номеру
 {
+    metka2:
     switch (index12EB)
     {
-        case <1: return "!ОШИБКА!: меньше-1";break;
-        case >12: return "!ОШИБКА!: больше-12";break;
+        case <1: index12EB=index12EB+12;goto metka2;break;
+        case >12:index12EB=index12EB-12;goto metka2;break;
 
         case 1: return "Тигр";break;
         case 2: return "Кролик";break;
