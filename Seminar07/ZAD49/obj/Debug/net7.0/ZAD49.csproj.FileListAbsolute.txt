@@ -1,0 +1,15 @@
+D:\Examples\MS-C\Seminar07\ZAD49\bin\Debug\net7.0\ZAD49.exe
+D:\Examples\MS-C\Seminar07\ZAD49\bin\Debug\net7.0\ZAD49.deps.json
+D:\Examples\MS-C\Seminar07\ZAD49\bin\Debug\net7.0\ZAD49.runtimeconfig.json
+D:\Examples\MS-C\Seminar07\ZAD49\bin\Debug\net7.0\ZAD49.dll
+D:\Examples\MS-C\Seminar07\ZAD49\bin\Debug\net7.0\ZAD49.pdb
+D:\Examples\MS-C\Seminar07\ZAD49\obj\Debug\net7.0\ZAD49.csproj.AssemblyReference.cache
+D:\Examples\MS-C\Seminar07\ZAD49\obj\Debug\net7.0\ZAD49.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\MS-C\Seminar07\ZAD49\obj\Debug\net7.0\ZAD49.AssemblyInfoInputs.cache
+D:\Examples\MS-C\Seminar07\ZAD49\obj\Debug\net7.0\ZAD49.AssemblyInfo.cs
+D:\Examples\MS-C\Seminar07\ZAD49\obj\Debug\net7.0\ZAD49.csproj.CoreCompileInputs.cache
+D:\Examples\MS-C\Seminar07\ZAD49\obj\Debug\net7.0\ZAD49.dll
+D:\Examples\MS-C\Seminar07\ZAD49\obj\Debug\net7.0\refint\ZAD49.dll
+D:\Examples\MS-C\Seminar07\ZAD49\obj\Debug\net7.0\ZAD49.pdb
+D:\Examples\MS-C\Seminar07\ZAD49\obj\Debug\net7.0\ZAD49.genruntimeconfig.cache
+D:\Examples\MS-C\Seminar07\ZAD49\obj\Debug\net7.0\ref\ZAD49.dll
